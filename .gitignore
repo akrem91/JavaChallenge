@@ -1,0 +1,7 @@
+# Fichier compilation Java
+out/
+lib/
+
+# IntelliJ
+*.iml
+.idea/
